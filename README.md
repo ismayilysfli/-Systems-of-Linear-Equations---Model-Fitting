@@ -18,7 +18,7 @@ The implementation was tested against NumPy’s built-in solver (`numpy.linalg.s
 |------|--------------|
 | `gaussian_elimination_func.py` | Core implementation of Gaussian Elimination, including functions for row swapping, pivoting, forward elimination, consistency checking, and back substitution. |
 | `main.py` | User input interface that reads matrix and vector values, runs the elimination process, and compares results with NumPy. |
-| [📄 Assigment 2.pdf](./Assigment/Assigment%202.pdf) | Report detailing the algorithm design, numerical stability improvements, and result analysis. |
+| [📄 Assigment 2.pdf](./Assignment/Assigment%202.pdf) | Report detailing the algorithm design, numerical stability improvements, and result analysis. |
 
 ---
 
